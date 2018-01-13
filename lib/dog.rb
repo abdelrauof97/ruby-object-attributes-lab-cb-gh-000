@@ -1,3 +1,4 @@
+require "pry"
 class Dog
   
   def initialize
@@ -20,7 +21,7 @@ class Dog
   end 
   
 end
-
+binding.pry
 
 
 
